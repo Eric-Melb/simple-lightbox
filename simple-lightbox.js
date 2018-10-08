@@ -26,7 +26,7 @@ function spawnSimpleLightbox()
         body.insertBefore(simpleLightboxBackground, firstElement);
 }
 
-/* removes modal elements created by spawnModal() */
+/* removes elements created by spawnSimpleLightBox() */
 function removeSimpleLightbox()
 {
         document.getElementById(simpleLightboxBackgroundId).remove();
