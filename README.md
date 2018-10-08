@@ -1,6 +1,7 @@
 # simple-lightbox
-Light weight light box, 30 lines of vanilla JS and 30 lines of CSS suiting a lot of simple use cases
+Light weight light box, 30 lines of vanilla JS and 30 lines of CSS, suits many simple image modal use cases
 
+![alt text](https://github.com/Eric-Melb/simple-lightbox/blob/master/img/simple-lightbox.gif "Example gif")
 
 **How to use**
 
