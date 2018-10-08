@@ -18,7 +18,7 @@ Simple as this is, limitations abound. Worth talking about, however, is the foll
 
 As written Simple Lightbox expects that the image you want in the lightbox has the same src as the image the user is clicking on. This is for when you've scalled down a high res image in the browser but already loaded it. This allows the lightbox to load very quickly, but it may cause the page to take some time to load initally. The lightbox's src is set in the spawnSimpleLightbox() function with the line 
  
- ```simpleLightboxImage.src = this.src;```JavaScript
+ ```simpleLightboxImage.src = this.src;```
 
  You can edit this to accommodate loading a different image.
 
