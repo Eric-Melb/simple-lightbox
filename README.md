@@ -1,5 +1,5 @@
 # simple-lightbox
-Light weight light box, 30 lines of vanilla JS and 30 lines of CSS, suits many simple image modal use cases
+Light weight light box, 30 lines of vanilla JS and 30 lines of CSS, suits simple image modal use cases
 
 ![alt text](https://github.com/Eric-Melb/simple-lightbox/blob/master/img/simple-lightbox.gif "Example gif")
 
@@ -7,7 +7,7 @@ Light weight light box, 30 lines of vanilla JS and 30 lines of CSS, suits many s
 
 Drop simple-lightbox.js and simple-lightbox.css into your project, edit the ```simpleLightboxClass``` variable at the top of the js file to target whatever image class you want to be lightboxed and you're good to go.
 
-It is very simple, edit as you see fit and use freely. 
+Edit as you see fit and use freely. 
 
 `index.html` and `style.css` are just for the simple demo of the simple lightbox, and can be safely ignored
 
